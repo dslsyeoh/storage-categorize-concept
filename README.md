@@ -1,0 +1,1 @@
+Simple concept for managing data by categorize.
